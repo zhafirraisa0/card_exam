@@ -1,0 +1,11 @@
+{
+  "name": "school-exam-card-generator",
+  "version": "1.3.1",
+  "description": "Aplikasi Administrasi Pencetakan Kartu Peserta Ujian & CBT Sekolah",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/run-tests.js"
+  },
+  "type": "module"
+}
